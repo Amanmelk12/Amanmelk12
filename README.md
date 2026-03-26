@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Amanuel
 
-A Software Engineering student focused on building clean, scalable, full stack web applications. I enjoy turning ideas into practical solutions while continuously improving my skills in system design, APIs, and modern development practices.
+A Software Engineering student focused on building clean, scalable, full stack web applications. I enjoy turning ideas into practical solutions while continuously improving my skills in system design, APIs, and modern software development practices.
 
 My goal is to build impactful projects, contribute to open-source, and grow into a strong full-stack developer.
 
@@ -18,4 +18,6 @@ Always learning, always building.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amanmelk12&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amanmelk12&theme=radical&hide_border=true)
+
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-126-blue?style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
