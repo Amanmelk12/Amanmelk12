@@ -1,5 +1,11 @@
 # 💫 About Me:
-# 👋 Hi, I'm Amanuel<br><br>💻 I am a Software Engineering student with a strong focus on developing clean, efficient, and scalable web applications. I am dedicated to transforming ideas into practical solutions while continuously enhancing my technical expertise and professional skill set.<br><br>## 🚀 What I Do<br><br>* 🌐 Full Stack Development (HTML, CSS, JavaScript, React, Django)<br>* ⚙️ Continuously expanding knowledge across different areas of software development<br>* 🛠️ Building practical projects like management systems and web apps<br>* 🎯 Committed to delivering high-quality, maintainable, and scalable solutions with a strong focus on performance and user experience<br><br>## 🌱 What I'm Learning<br><br>* 🔹 Comprehensive full-stack development across modern web technologies<br>* 🔹 Real-world project architecture and system design<br>* 🔹 APIs and database integration<br>* 🔹 Adherence to clean coding standards and scalable architecture<br><br>## 🎯 Goals<br><br>* Build impactful real-world applications<br>* Contribute to open-source projects<br>* Develop expertise as a full-stack developer with a strong foundation in scalable and maintainable systems<br>* Continuously improve problem-solving skills<br><br>## 📫 Connect With Me<br><br>* LinkedIn: https://www.linkedin.com/in/amanuel-melkamu-5a0109355<br>* Portfolio: https://personal-portfolio-nine-iota-12.vercel.app/<br><br>---<br><br>⭐️ *Always learning, always building.*<br>
+# Hi, I'm Amanuel
+
+Software Engineering student focused on building clean, scalable, full stack web applications. I enjoy turning ideas into practical solutions while continuously improving my skills in system design, APIs, and modern development practices.
+
+My goal is to build impactful projects, contribute to open-source, and grow into a strong full-stack developer.
+
+Always learning, always building.
 
 
 ## 🌐 Socials:
