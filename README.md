@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Amanuel
 
-Software Engineering student focused on building clean, scalable, full stack web applications. I enjoy turning ideas into practical solutions while continuously improving my skills in system design, APIs, and modern development practices.
+A Software Engineering student focused on building clean, scalable, full stack web applications. I enjoy turning ideas into practical solutions while continuously improving my skills in system design, APIs, and modern development practices.
 
 My goal is to build impactful projects, contribute to open-source, and grow into a strong full-stack developer.
 
